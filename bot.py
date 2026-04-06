@@ -1,7 +1,7 @@
 import requests
 from datetime import datetime, timedelta
 
-# Cấu hình chung
+# Cấu hình
 FILENAME = "all_matches.m3u"
 HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
 
@@ -23,7 +23,7 @@ def process_standard(url, provider_name):
                     if "FHD" in s_name or "FULLHD" in s_name:
                         fixtures.append({
                             'time': dt_vn,
-                            'group': provider_name,
+                            'group': provider_name, # Tên nhóm (HoiQuanTV hoặc ThienDinhTV)
                             'title': f"{item.get('title')} ({nickname})" if nickname else item.get('title'),
                             'logo': item.get('homeTeam', {}).get('logoUrl', ''),
                             'url': s.get('sourceUrl')
@@ -47,7 +47,7 @@ def process_vongcam():
             if stream_url:
                 fixtures.append({
                     'time': dt_vn,
-                    'group': "VongcamTV",
+                    'group': "VongcamTV", # Tên nhóm riêng
                     'title': item.get('title'),
                     'logo': item.get('homeClub', {}).get('logoUrl', ''),
                     'url': stream_url
@@ -56,23 +56,36 @@ def process_vongcam():
     return fixtures
 
 if __name__ == "__main__":
-    all_data = []
-    
-    # Gom dữ liệu từ 3 nguồn
-    all_data += process_standard("https://sv.hoiquantv.xyz/api/v1/external/fixtures/unfinished", "HoiQuanTV")
-    all_data += process_standard("https://sv.thiendinhtv.xyz/api/v1/external/fixtures/unfinished", "ThienDinhTV")
-    all_data += process_vongcam()
+    # Lấy dữ liệu riêng từng nguồn
+    hoiquan_data = process_standard("https://sv.hoiquantv.xyz/api/v1/external/fixtures/unfinished", "HoiQuanTV")
+    thiendinh_data = process_standard("https://sv.thiendinhtv.xyz/api/v1/external/fixtures/unfinished", "ThienDinhTV")
+    vongcam_data = process_vongcam()
 
-    # Sắp xếp tất cả theo thời gian
-    all_data.sort(key=lambda x: x['time'])
+    # Sắp xếp theo giờ nội bộ từng nhóm (tùy chọn)
+    hoiquan_data.sort(key=lambda x: x['time'])
+    thiendinh_data.sort(key=lambda x: x['time'])
+    vongcam_data.sort(key=lambda x: x['time'])
 
-    # Ghi vào 1 file duy nhất
+    # Ghi vào file M3U với phân nhóm rõ ràng
     with open(FILENAME, "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
-        for item in all_data:
+        
+        # Ghi nhóm HoiQuanTV
+        for item in hoiquan_data:
             time_str = item['time'].strftime('%H:%M') if item['time'] != datetime.max else "Live"
-            # tvg-name giúp app nhận diện, group-title để phân loại thư mục trong App
-            f.write(f"#EXTINF:-1 tvg-logo='{item['logo']}' group-title='{item['group']}', {time_str} | {item['title']}\n")
+            f.write(f"#EXTINF:-1 tvg-logo='{item['logo']}' group-title='HoiQuanTV', {time_str} | {item['title']}\n")
+            f.write(f"{item['url']}|User-Agent={HEADERS['User-Agent']}\n")
+
+        # Ghi nhóm ThienDinhTV
+        for item in thiendinh_data:
+            time_str = item['time'].strftime('%H:%M') if item['time'] != datetime.max else "Live"
+            f.write(f"#EXTINF:-1 tvg-logo='{item['logo']}' group-title='ThienDinhTV', {time_str} | {item['title']}\n")
+            f.write(f"{item['url']}|User-Agent={HEADERS['User-Agent']}\n")
+
+        # Ghi nhóm VongcamTV
+        for item in vongcam_data:
+            time_str = item['time'].strftime('%H:%M') if item['time'] != datetime.max else "Live"
+            f.write(f"#EXTINF:-1 tvg-logo='{item['logo']}' group-title='VongcamTV', {time_str} | {item['title']}\n")
             f.write(f"{item['url']}|User-Agent={HEADERS['User-Agent']}\n")
             
-    print(f"Tổng hợp thành công {len(all_data)} trận vào file {FILENAME}")
+    print(f"Hoàn thành! Đã chia {len(hoiquan_data + thiendinh_data + vongcam_data)} trận vào 3 nhóm riêng biệt.")
