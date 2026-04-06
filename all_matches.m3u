@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/SSC_Napoli_2024_%28deep_blue_navy%29.svg" group-title="HoiQuanTV", 01:45 | Napoli vs AC Milan (BLV PHAN TÔ)
-https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://www.pngmart.com/files/22/Girona-FC-PNG-HD.png" group-title="HoiQuanTV", 02:00 | Girona vs Villarreal (BLV PHAN MÃO)
 https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/4716.png" group-title="HoiQuanTV", 02:45 | Casa Pia vs Benfica (BLV PHAN LÂM)
@@ -107,10 +105,6 @@ https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8|User-Agent=Mozilla
 https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/2929.png" group-title="HoiQuanTV", 23:20 | Al-Ahli Jeddah vs Al-Fateh (BLV PHAN TÔ)
 https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/SSC_Napoli_2024_%28deep_blue_navy%29.svg" group-title="ThienDinhTV", 01:45 | Napoli vs AC Milan (BLV Ngọc Hoàng(A Cháo))
-https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_ngochoang/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://www.pngmart.com/files/22/Girona-FC-PNG-HD.png" group-title="ThienDinhTV", 02:00 | Girona vs Villarreal (BLV Táo Mèo)
-https://tdlive.zlylive.com/live/tdtv_blv_taomeo/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/945.png" group-title="ThienDinhTV", 16:00 | Melbourne City vs Central Coast Mariners (BLV Táo Thiên Vương)
 https://tdlive.zlylive.com/live/tdtv_blv_taothienvuong/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/18009.png" group-title="ThienDinhTV", 17:30 | Rajasthan United vs Gokulam (BLV Nam Tào(A Bí))
@@ -135,11 +129,9 @@ https://tdlive.zlylive.com/live/tdtv_blv_taovanhoa/playlist.m3u8|User-Agent=Mozi
 https://tdlive.zlylive.com/live/tdtv_blv_taomeo/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_96x96.png" group-title="ThienDinhTV", 02:00 | Real Madrid vs Bayern München (BLV Ngọc Hoàng(A Cháo))
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_ngochoang/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/492.png" group-title="VongcamTV", 01:45 | Napoli vs AC Milan
-https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/547.png" group-title="VongcamTV", 02:00 | Girona vs Villarreal
-https://bglive.zlylive.com/live/bgtv_blv_delua/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/4716.png" group-title="VongcamTV", 02:45 | Casa Pia vs Benfica
+https://bglive.edgemaxcdn.org/live/bgtv_blv_tieubao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://volleybox.net/media/upload/teams/big_1740045997QPZs5.png" group-title="VongcamTV", 12:00 | VTV BĐ Long An vs Vietinbank
 https://bglive.edgemaxcdn.org/live/bgtv_blv_tieubao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/945.png" group-title="VongcamTV", 16:00 | Melbourne City vs Central Coast Mariners
 https://bglive.zlylive.com/live/bgtv_blv_tieupao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
