@@ -53,8 +53,8 @@ https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8|User-Agent=Mozilla
 https://hqlive.zlylive.com/live/hqtv_blv_phanlam/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1079.png" group-title="HoiQuanTV", 22:00 | Krylia Sovetov vs CSKA Moscow (BLV PHAN MÃO)
 https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Persik_Kediri_logo.svg/1200px-Persik_Kediri_logo.svg.png" group-title="ThienDinhTV", 15:30 | Persik Kediri vs Persijap (BLV Táo Thiên Vương)
-https://tdlive.zlylive.com/live/tdtv_blv_taothienvuong/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Persik_Kediri_logo.svg/1200px-Persik_Kediri_logo.svg.png" group-title="ThienDinhTV", 15:30 | Persik Kediri vs Persijap (BLV Táo Chè)
+https://tdlive.zlylive.com/live/tdtv_blv_taoche/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeHUNqkPcsEZ49zQsdnGULnXmI89g8SxAEmw&s" group-title="ThienDinhTV", 17:30 | Udinese vs Como (BLV Nam Tào(A Bí))
 https://tdlive.zlylive.com/live/tdtv_blv_taovanhoa/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Millwall_FC_crest.svg/1200px-Millwall_FC_crest.svg.png" group-title="ThienDinhTV", 19:00 | Millwall vs Norwich (BLV Táo Tàu)
@@ -63,8 +63,8 @@ https://tdlive.zlylive.com/live/tdtv_blv_taotau/playlist.m3u8|User-Agent=Mozilla
 https://tdlive.zlylive.com/live/tdtv_blv_taovannghe/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Sheffield_Wednesday_badge.svg/250px-Sheffield_Wednesday_badge.svg.png" group-title="ThienDinhTV", 21:00 | Sheffield Wednesday vs Leicester (BLV Táo Mèo)
 https://tdlive.zlylive.com/live/tdtv_blv_taomeo/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/20458.png" group-title="ThienDinhTV", 22:00 | Kahraba Ismailia vs Petrojet (BLV Táo Chè)
-https://tdlive.zlylive.com/live/tdtv_blv_taoche/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/20458.png" group-title="ThienDinhTV", 22:00 | Kahraba Ismailia vs Petrojet (BLV Táo Thiên Vương)
+https://tdlive.zlylive.com/live/tdtv_blv_taothienvuong/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/6lal-0xwWtos5HI99HRvuQ_96x96.png" group-title="ThienDinhTV", 23:00 | Juventus vs Genoa (BLV Ngọc Hoàng(A Cháo))
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_ngochoang/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.E7Ql-lWZidTXEQf-DNotOwHaHa?pid=Api&P=0&h=220" group-title="ThienDinhTV", 23:30 | Swansea vs Middlesbrough (BLV Thần Thông)
@@ -87,3 +87,9 @@ https://bglive.zlylive.com/live/bgtv_blv_tieuho/playlist.m3u8|User-Agent=Mozilla
 https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/76.png" group-title="VongcamTV", 23:30 | Swansea vs Middlesbrough
 https://bglive.zlylive.com/live/bgtv_blv_delua/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/492.png" group-title="VongcamTV", 01:45 | Napoli vs AC Milan
+https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/547.png" group-title="VongcamTV", 02:00 | Girona vs Villarreal
+https://bglive.zlylive.com/live/bgtv_blv_tieupao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/4716.png" group-title="VongcamTV", 02:45 | Casa Pia vs Benfica
+https://bglive.edgemaxcdn.org/live/bgtv_blv_tieubao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
