@@ -1,0 +1,30 @@
+name: Global Update IPTV
+
+on:
+  schedule:
+    - cron: '*/20 * * * *' # Chạy dày hơn (20 phút/lần) vì file gộp cần cập nhật liên tục
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - run: pip install requests
+      - run: python bot.py
+      - name: Commit and push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add all_matches.m3u
+          if git diff --staged --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Global Update: $(date +'%d/%m %H:%M')"
+            git push
+          fi
