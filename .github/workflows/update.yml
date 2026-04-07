@@ -2,7 +2,7 @@ name: Global Update IPTV
 
 on:
   schedule:
-    - cron: '*/20 * * * *' # Chạy dày hơn (20 phút/lần) vì file gộp cần cập nhật liên tục
+    - cron: '*/20 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -16,15 +16,17 @@ jobs:
         with:
           python-version: '3.x'
       - run: pip install requests
-      - run: python bot.py
+      - name: Run Bot
+        run: python bot.py
       - name: Commit and push
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          # Quan trọng: Phải add đúng tên file all_matches.m3u
           git add all_matches.m3u
           if git diff --staged --quiet; then
-            echo "No changes"
+            echo "Không có thay đổi."
           else
-            git commit -m "Global Update: $(date +'%d/%m %H:%M')"
+            git commit -m "Auto Update: $(date +'%d/%m %H:%M')"
             git push
           fi
