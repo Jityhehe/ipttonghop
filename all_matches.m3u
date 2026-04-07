@@ -1,20 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png" group-title="HoiQuanTV", 15:00 | GUO Xin Wa/CHEN Fang Hui vs WU Guan Xun/LEE Chia Hsin (BLV PHAN MÃ  )
-https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png" group-title="HoiQuanTV", 15:00 | Dechapol PUAVARANUKROH/Supissara PAEWSAMPRAN vs Bobby SETIABUDI/Melati Daeva OKTAVIANTI (BLV PHAN CA)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtJl09vFj0uFgcibti9M8whIR5IHpv_Gc75A&s" group-title="HoiQuanTV", 17:30 | Damir Dzumhur vs Fabian Marozsan (BLV PHAN CA)
 https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/945.png" group-title="HoiQuanTV", 16:00 | Melbourne City vs Central Coast Mariners (BLV PHAN LÂM)
-https://hqlive.zlylive.com/live/hqtv_blv_phanlam/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Tom%C3%A1s_Martin_Etcheverry_-_2024_Olympics_%28cropped%29.jpg" group-title="HoiQuanTV", 16:00 | Tomas Martin Etcheverry vs Grigor Dimitrov (BLV PHAN TÔ)
-https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.D1Wm_duMfdDXKRp0UpKCmAHaFZ?pid=Api&P=0&h=220" group-title="HoiQuanTV", 17:00 | Ugo Humbert vs Jannik Sinner (BLV PHAN BÁCH)
-https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://image.sggp.org.vn/w1000/Uploaded/2026/ldfnyrykxq/2025_04_01/mensik-1931-8728.jpg.webp" group-title="HoiQuanTV", 17:30 | Jakub Mensik vs Fabian Marozsan (BLV PHAN CA)
-https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Hatayspor_crest.png" group-title="HoiQuanTV", 18:30 | Hatayspor vs Adana Demirspor (BLV PHAN BÁCH)
-https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ro/3/33/Guangzhou_Evergrande_2012_Crest.png" group-title="HoiQuanTV", 18:35 | Guangzhou vs Zhejiang Guangsha (BLV PHAN MÃO)
-https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/c/ce/Liaoning_Football_Club.svg.png" group-title="HoiQuanTV", 18:35 | Liaoning vs Fujian  (BLV PHAN MÃO)
 https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://www.sportspro.com/wp-content/uploads/2024/06/News-story-template-1-1.jpg" group-title="HoiQuanTV", 19:30 | Carlos Alcaraz vs Sebastian Baez (BLV PHAN BÁCH)
@@ -81,8 +67,6 @@ https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8|User-Agent=Mozilla
 https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/2929.png" group-title="HoiQuanTV", 23:20 | Al-Ahli Jeddah vs Al-Fateh (BLV PHAN TÔ)
 https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/945.png" group-title="ThienDinhTV", 16:00 | Melbourne City vs Central Coast Mariners (BLV Táo Thiên Vương)
-https://tdlive.zlylive.com/live/tdtv_blv_taothienvuong/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/18009.png" group-title="ThienDinhTV", 17:30 | Rajasthan United vs Gokulam (BLV Nam Tào(A Bí))
 https://tdlive.zlylive.com/live/tdtv_blv_taovanhoa/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/cb/Band%C4%B1rmaspor.png" group-title="ThienDinhTV", 18:30 | Bandırmaspor vs Sarıyer (BLV Thần Thông)
@@ -105,8 +89,6 @@ https://tdlive.zlylive.com/live/tdtv_blv_taovanhoa/playlist.m3u8|User-Agent=Mozi
 https://tdlive.zlylive.com/live/tdtv_blv_taomeo/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_96x96.png" group-title="ThienDinhTV", 02:00 | Real Madrid vs Bayern München (BLV Ngọc Hoàng(A Cháo))
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_ngochoang/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/945.png" group-title="VongcamTV", 16:00 | Melbourne City vs Central Coast Mariners
-https://bglive.zlylive.com/live/bgtv_blv_tieupao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Flag_of_East_Timor.svg" group-title="VongcamTV", 17:30 | Timor Leste -  Việt Nam 
 https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/23208.png" group-title="VongcamTV", 20:00 | Vietnam U20 W vs Bangladesh U20 W
@@ -116,11 +98,13 @@ https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8|User-Agent=Mozilla/
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/541.png" group-title="VongcamTV", 02:00 | Real Madrid vs Bayern München
 https://bglive.zlylive.com/live/bgtv_blv_delua/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/541.png" group-title="VongcamTV", 02:00 | Real Madrid vs Bayern München
-https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bglive.zlylive.com/live/bgtv_blv_tieupao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/228.png" group-title="VongcamTV", 02:00 | Sporting CP vs Arsenal
 https://bglive.zlylive.com/live/bgtv_blv_aphu/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/228.png" group-title="VongcamTV", 02:00 | Sporting CP vs Arsenal
 https://bglive.edgemaxcdn.org/live/bgtv_blv_tieubao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/541.png" group-title="VongcamTV", 02:00 | Real Madrid vs Bayern München
+https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1616.png" group-title="VongcamTV", 09:00 | Los Angeles FC vs Cruz Azul
 https://bglive.zlylive.com/live/bgtv_blv_tieuho/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/293.png" group-title="VongcamTV", 17:00 | Gamba Osaka vs Bangkok United
