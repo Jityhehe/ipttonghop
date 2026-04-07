@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/VIE.png" group-title="HoiQuanTV", 08:00 | TRAN Dinh Manh/PHAM Thi Khanh vs Dhiren AYYAPPAN/Taabia KHAN (BLV PHAN BÁCH)
-https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/VIE.png" group-title="HoiQuanTV", 10:00 | PHAM Van Truong/BUI Bich Phuong vs Thulith PALLIYAGURU/Panchali ADHIKARI (BLV PHAN TÔ)
 https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png" group-title="HoiQuanTV", 15:00 | GUO Xin Wa/CHEN Fang Hui vs WU Guan Xun/LEE Chia Hsin (BLV PHAN MÃ  )
@@ -111,8 +109,6 @@ https://tdlive.zlylive.com/live/tdtv_blv_taovanhoa/playlist.m3u8|User-Agent=Mozi
 https://tdlive.zlylive.com/live/tdtv_blv_taomeo/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_96x96.png" group-title="ThienDinhTV", 02:00 | Real Madrid vs Bayern München (BLV Ngọc Hoàng(A Cháo))
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_ngochoang/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://volleybox.net/media/upload/teams/big_1740045997QPZs5.png" group-title="VongcamTV", 12:00 | VTV BĐ Long An vs Vietinbank
-https://bglive.edgemaxcdn.org/live/bgtv_blv_tieubao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/945.png" group-title="VongcamTV", 16:00 | Melbourne City vs Central Coast Mariners
 https://bglive.zlylive.com/live/bgtv_blv_tieupao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Flag_of_East_Timor.svg" group-title="VongcamTV", 17:30 | Timor Leste -  Việt Nam 
