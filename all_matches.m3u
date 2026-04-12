@@ -1,13 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/Club_Athletic_Bilbao_logo.svg", 02:00 | Athletic Club vs Villarreal (BLV PHAN MÃ  )
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐỊNH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/Club_Athletic_Bilbao_logo.svg", 02:00 | Athletic Club vs Villarreal (BLV Thần Thông)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://tdlive.zlylive.com/live/tdtv_blv_taovannghe/playlist.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ VÕNG CAM TV" tvg-logo="https://media.api-sports.io/football/teams/531.png", 02:00 | Athletic Club vs Villarreal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://bglive.zlylive.com/live/bgtv_blv_tieupao/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/1/14/GD_Estoril_Praia.svg/500px-GD_Estoril_Praia.svg.png", 02:30 | Estoril vs FC Porto (BLV PHAN LÂM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanlam/playlist.m3u8
