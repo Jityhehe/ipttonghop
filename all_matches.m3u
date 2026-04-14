@@ -1,58 +1,31 @@
 #EXTM3U
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://media.api-sports.io/football/teams/22892.png", 17:30 | SC Bengaluru vs United (BLV CỦ HÀNH)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Zverev_MCM23_%2820%29.jpg", 17:30 | Alexander Zverev vs Miomir Kecmanovic (BLV PHAN TỪ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWoU78UyOZ3nheNtsR3T3_ysPhFCrIIgmNqg&s", 17:30 | Martin Landaluce vs Lorenzo Musetti (BLV PHAN BÁCH)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ VÕNG CAM TV" tvg-logo="https://volleybox.net/media/upload/teams/big_1741947201Tnk8q.png", 17:30 | LPBank Ninh Bình vs VTV BĐ Long An
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://bglive.zlylive.com/live/bgtv_blv_delua/playlist.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐỊNH TV" tvg-logo="https://media.api-sports.io/football/teams/582.png", 18:00 | Alashkert vs Ararat (BLV Táo Chè)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://tdlive.zlylive.com/live/tdtv_blv_taoche/playlist.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ VÕNG CAM TV" tvg-logo="https://media.api-sports.io/football/teams/582.png", 18:00 | Alashkert vs Ararat
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://bglive.edgemaxcdn.org/live/bgtv_blv_tieubao/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://static.bongda24h.vn/Medias/thumnail/2022/1/25/beijing-guoan.png", 18:35 | Beijing vs Qingdao (BLV PHAN MÃO)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB5GPzCXPIqu7zZLfhzC-3AyTMPcgVC8SnbQ&s", 19:00 | Alex Molcan vs Alexander Bublik (BLV PHAN TỪ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ VÕNG CAM TV" tvg-logo="https://img0.aiscore.com/football/team/bfa20d86a59044ef90a4609dde03985c.png!w60", 19:30 | U17 Singapore vs U17  Australia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://bglive.zlylive.com/live/bgtv_blv_aphu/playlist.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Khorezm_football_club_logo.png", 20:00 | Xorazm vs Kokand-1912 (BLV PHAN TÔ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ VÕNG CAM TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRgqSje3fdQR3DtlrOowzHURUBfLp5grBSrA&s", 20:00 | Công An TP HCM vs Biên phòng MB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://bglive.zlylive.com/live/bgtv_blv_delua/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐỊNH TV" tvg-logo="https://media.api-sports.io/football/teams/10507.png", 20:15 | Al Jandal vs Al Ula (BLV Táo Thiên Vương)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://tdlive.zlylive.com/live/tdtv_blv_taothienvuong/playlist.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://media.gettyimages.com/id/1727342994/photo/shanghai-china-fabian-marozsan-of-hungary-celebrates-victory-in-the-mens-singles-round-of-32.jpg?s=612x612&w=gi&k=20&c=nkApmrnDC-0R2yjK_N0-3_QPEGcxCsAq0aYD8OMAIkM=", 20:30 | Fabian Marozsan vs Stefanos Tsitsipas (BLV PHAN TỪ)
+#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://media.gettyimages.com/id/1727342994/photo/shanghai-china-fabian-marozsan-of-hungary-celebrates-victory-in-the-mens-singles-round-of-32.jpg?s=612x612&w=gi&k=20&c=nkApmrnDC-0R2yjK_N0-3_QPEGcxCsAq0aYD8OMAIkM=", 20:30 | Fabian Marozsan vs Stefanos Tsitsipas (BLV PHAN TÔ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
+https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://www.sportspro.com/wp-content/uploads/2024/06/News-story-template-1-1.jpg", 21:00 | Carlos Alcaraz vs Otto Virtanen (BLV PHAN TỪ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Tractor_S.C._Logo.svg/1280px-Tractor_S.C._Logo.svg.png", 21:45 | Tractor Sazi vs Shabab Al Ahli Dubai (BLV PHAN MÃ  )
+#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Tractor_S.C._Logo.svg/1280px-Tractor_S.C._Logo.svg.png", 21:45 | Tractor Sazi vs Shabab Al Ahli Dubai (BLV LƯƠNG BỔNG)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
+https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐỊNH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Tractor_S.C._Logo.svg/1280px-Tractor_S.C._Logo.svg.png", 21:45 | Tractor Sazi vs Shabab Al Ahli Dubai (BLV Thần Thông)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://tdlive.zlylive.com/live/tdtv_blv_taovannghe/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ VÕNG CAM TV" tvg-logo="https://media.api-sports.io/football/teams/2737.png", 21:45 | Tractor Sazi vs Shabab Al Ahli Dubai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e2/Botev_Vratsa_Logo.png", 22:00 | Botev Vratsa vs Lokomotiv Sofia (BLV LƯƠNG BỔNG)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Road_2_Australia_-_Navone_V_Burruchaga_Final_-_BugWarp_206_%28cropped%29.jpg/960px-Road_2_Australia_-_Navone_V_Burruchaga_Final_-_BugWarp_206_%28cropped%29.jpg", 22:30 | Mariano Navone vs Andrey Rublev (BLV PHAN BÁCH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8
@@ -116,9 +89,6 @@ https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Charlotte_Hornets_%282014%29.svg/1200px-Charlotte_Hornets_%282014%29.svg.png", 06:30 | Charlotte Hornets vs Miami Heat (BLV PHAN MÃO)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Escudo_del_Club_Atl%C3%A9tico_Boca_Juniors_2012.svg", 07:00 |  Boca Juniors vs Barcelona SC  (BLV PHAN CA)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://media.api-sports.io/football/teams/128.png", 07:30 | Santos vs Deportivo Recoleta (BLV LƯƠNG BỔNG)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
@@ -128,9 +98,9 @@ https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://logodetimes.com/times/phoenix-suns/logo-phoenix-suns-1536.png", 09:00 | Phoenix Suns vs Portland Trail Blazers (BLV PHAN TỪ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Club_Am%C3%A9rica_crest.svg/1200px-Club_Am%C3%A9rica_crest.svg.png", 10:30 | Club America vs Nashville SC (BLV PHAN CA)
+#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Club_Am%C3%A9rica_crest.svg/1200px-Club_Am%C3%A9rica_crest.svg.png", 10:30 | Club America vs Nashville SC (BLV PHAN LÂM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
+https://hqlive.zlylive.com/live/hqtv_blv_phanlam/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://media.api-sports.io/football/teams/19932.png", 14:10 | Papua New Guinea W vs New Zealand W (BLV PHAN LÂM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanlam/playlist.m3u8
