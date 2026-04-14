@@ -1,19 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://media.gettyimages.com/id/1727342994/photo/shanghai-china-fabian-marozsan-of-hungary-celebrates-victory-in-the-mens-singles-round-of-32.jpg?s=612x612&w=gi&k=20&c=nkApmrnDC-0R2yjK_N0-3_QPEGcxCsAq0aYD8OMAIkM=", 20:30 | Fabian Marozsan vs Stefanos Tsitsipas (BLV PHAN TÔ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Tractor_S.C._Logo.svg/1280px-Tractor_S.C._Logo.svg.png", 21:45 | Tractor Sazi vs Shabab Al Ahli Dubai (BLV LƯƠNG BỔNG)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐỊNH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Tractor_S.C._Logo.svg/1280px-Tractor_S.C._Logo.svg.png", 21:45 | Tractor Sazi vs Shabab Al Ahli Dubai (BLV Thần Thông)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://tdlive.zlylive.com/live/tdtv_blv_taovannghe/playlist.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ VÕNG CAM TV" tvg-logo="https://media.api-sports.io/football/teams/2737.png", 21:45 | Tractor Sazi vs Shabab Al Ahli Dubai
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Road_2_Australia_-_Navone_V_Burruchaga_Final_-_BugWarp_206_%28cropped%29.jpg/960px-Road_2_Australia_-_Navone_V_Burruchaga_Final_-_BugWarp_206_%28cropped%29.jpg", 22:30 | Mariano Navone vs Andrey Rublev (BLV PHAN BÁCH)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ VÕNG CAM TV" tvg-logo="https://media.api-sports.io/football/teams/1719.png", 23:15 | Germany W vs Austria W
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://bglive.zlylive.com/live/bgtv_blv_tieupao/playlist.m3u8
