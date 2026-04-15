@@ -1,13 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Charlotte_Hornets_%282014%29.svg/1200px-Charlotte_Hornets_%282014%29.svg.png", 06:30 | Charlotte Hornets vs Miami Heat (BLV PHAN TỪ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://media.api-sports.io/football/teams/128.png", 07:30 | Santos vs Deportivo Recoleta (BLV LƯƠNG BỔNG)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Escudo_del_Cruz_Azul_AC.svg/2048px-Escudo_del_Cruz_Azul_AC.svg.png", 08:00 | Cruz Azul vs Los Angeles FC (BLV PHAN TÔ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://logodetimes.com/times/phoenix-suns/logo-phoenix-suns-1536.png", 09:00 | Phoenix Suns vs Portland Trail Blazers (BLV PHAN MÃO)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
