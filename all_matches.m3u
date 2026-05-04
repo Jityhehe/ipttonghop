@@ -1,13 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Persib_Bandung_Football_Logo.png", 15:30 | Persib Bandung vs PSIM Yogyakarta (BLV LƯƠNG BỔNG)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/b8/Logo_PSM_Makasar_Baru.png/250px-Logo_PSM_Makasar_Baru.png", 15:30 | PSM Makassar vs Bhayangkara FC (BLV PHAN MÃ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ VÕNG CAM TV" tvg-logo="https://media.api-sports.io/football/teams/2445.png", 15:30 | Persib Bandung vs PSIM Yogyakarta
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://bglive.zlylive.com/live/bgtv_blv_tieubao/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://media.api-sports.io/football/teams/21447.png", 18:30 | Vietnam U17 vs China PR U17 W (BLV PHAN TÔ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8
