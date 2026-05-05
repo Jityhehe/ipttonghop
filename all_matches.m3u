@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐỊNH TV" tvg-logo="https://static.bongda24h.vn/Medias/original/2022/11/09/seoul-0911213928.png", 17:00 | FC Seoul vs FC Anyang (BLV Táo Kinh Tế(A Tích))
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://tdlive.zlylive.com/live/tdtv_blv_taokinhte/playlist.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ VÕNG CAM TV" tvg-logo="https://media.api-sports.io/football/teams/2766.png", 17:00 | FC Seoul vs FC Anyang
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://media.api-sports.io/football/teams/844.png", 18:35 | Shandong Luneng vs Shanghai Shenhua (BLV PHAN HÀ LINH )
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8
@@ -19,10 +13,13 @@ https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8
 https://tdlive.zlylive.com/live/tdtv_blv_taotinhtao/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ VÕNG CAM TV" tvg-logo="https://media.api-sports.io/football/teams/21262.png", 19:00 | Chongqing Tongliang Long vs Henan Jianye
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://bglive.zlylive.com/live/bgtv_blv_tieupao/playlist.m3u8
+https://bglive.zlylive.com/live/bgtv_blv_delua/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvSTlzRmI0hlf2e91phaq_-Xm6gYQHfKuf8A&s", 20:30 | Ann Li - Shuai Zhang (BLV PHAN TÔ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://media.api-sports.io/football/teams/3478.png", 21:00 | Mumbai City vs East Bengal II (BLV PHAN TỪ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐỊNH TV" tvg-logo="https://media.api-sports.io/football/teams/3478.png", 21:00 | Mumbai City vs East Bengal II (BLV Táo Thiên Vương)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://tdlive.zlylive.com/live/tdtv_blv_taothienvuong/playlist.m3u8
