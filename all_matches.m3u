@@ -1,19 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://static.flashscore.com/res/image/data/O2nuZwRp-vaAM5VhK.png", 15:00 | PERODUA Malaysia Masters 2026 (BLV PHAN TỪ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ VÕNG CAM TV" tvg-logo="https://static.flashscore.com/res/image/data/KU9FsQjl-pIpxCY0B.png", 16:00 | TKS Việt Nam W - Hồ Chí Minh W
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://bglive.yarncdn.live/live/bgtv_blv_tieuhac/playlist.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://static.flashscore.com/res/image/data/O2nuZwRp-vaAM5VhK.png", 16:30 | PERODUA Malaysia Masters 2026 (BLV PHAN BÁCH)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5HCWkFJv5UCjPj7-UaPNthpNPBvpKpCSD2g&s", 17:00 | Flavio Cobolli vs Ignacio Buse (BLV PHAN CA)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://media.api-sports.io/football/teams/5686.png", 18:35 | Sichuan Jiuniu vs Dalian Zhixing (BLV PHAN CA)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://media.api-sports.io/football/teams/837.png", 18:35 | Tianjin Teda vs Henan Jianye (BLV CỦ HÀNH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8
@@ -35,9 +20,9 @@ https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ VÕNG CAM TV" tvg-logo="https://media.api-sports.io/football/teams/5648.png", 19:00 | Chengdu Better City vs SHANGHAI SIPG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://bglive.yarncdn.live/live/bgtv_blv_tieubaxa/playlist.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ VÕNG CAM TV" tvg-logo="https://media.api-sports.io/football/teams/9123.png", 20:00 | Shorta vs Damascus Al-Ahli
+#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Brooksby_RG21_%2842%29_%2851376192761%29.jpg/250px-Brooksby_RG21_%2842%29_%2851376192761%29.jpg", 21:00 | Jenson Brooksby vs Casper Ruud (BLV PHAN CA)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://bglive.yarncdn.live/live/bgtv_blv_lenh/playlist.m3u8
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://media.api-sports.io/football/teams/12511.png", 22:00 | Japan U17 vs Uzbekistan U17 (BLV CỦ HÀNH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8
@@ -56,15 +41,12 @@ https://bglive.yarncdn.live/live/bgtv_blv_tieubao/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐỊNH TV" tvg-logo="https://cdn.soccerwiki.org/images/logos/clubs/2042.png", 23:45 | CS Constantine vs Khenchela (BLV Thần Thông)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/hif/5/53/AFC_Bournemouth_%282013%29.png", 01:30 | Bournemouth vs Manchester City (BLV PHAN CHỚP)
+#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/hif/5/53/AFC_Bournemouth_%282013%29.png", 01:30 | Bournemouth vs Manchester City (BLV LƯƠNG BỔNG)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://media.api-sports.io/football/teams/21449.png", 01:30 | China PR U17 vs Australia U17 (BLV PHAN MÃO)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/hif/5/53/AFC_Bournemouth_%282013%29.png", 01:30 | Bournemouth vs Manchester City (BLV PHAN CHỚP)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐỊNH TV" tvg-logo="https://media.api-sports.io/football/teams/21449.png", 01:30 | China PR U17 vs Australia U17 (BLV Táo Tỉnh Táo)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
@@ -83,9 +65,6 @@ https://bglive.yarncdn.live/live/bgtv_blv_lenh/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/fhBITrIlbQxhVB6IjxUO6Q_96x96.png", 02:15 | Chelsea vs Tottenham (BLV PHAN MÃ )
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/fhBITrIlbQxhVB6IjxUO6Q_96x96.png", 02:15 | Chelsea vs Tottenham (BLV LƯƠNG BỔNG)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐỊNH TV" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/fhBITrIlbQxhVB6IjxUO6Q_96x96.png", 02:15 | Chelsea vs Tottenham (BLV Thần Thông)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
@@ -107,6 +86,9 @@ https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Independiente_del_Valle_2022_Logo_Campe%C3%B3n_Sudamericana.png/250px-Independiente_del_Valle_2022_Logo_Campe%C3%B3n_Sudamericana.png", 09:00 | Independiente del Valle vs Libertad (BLV PHAN ANH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ VÕNG CAM TV" tvg-logo="https://volleybox.net/media/upload/teams/1753202671T0WYJ.png", 17:00 | BC Thông Tin - BĐ 19 vs Suwon (Hàn Quốc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://bglive.yarncdn.live/live/bgtv_blv_tieubao/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ VÕNG CAM TV" tvg-logo="https://media.api-sports.io/football/teams/21580.png", 17:15 | Tuloy vs Maharlika
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
@@ -119,18 +101,30 @@ https://hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/d/dd/Shanghai_Shenhua_F.C.svg.png", 18:35 | Shanghai Shenhua vs Wuhan Three Towns (BLV CỦ HÀNH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐỊNH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/d/dd/Shanghai_Shenhua_F.C.svg.png", 18:35 | Shanghai Shenhua vs Wuhan Three Towns (BLV Táo Tỉnh Táo)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://media.api-sports.io/football/teams/848.png", 19:00 | Hangzhou Greentown vs Shandong Luneng (BLV PHAN BÁCH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐỊNH TV" tvg-logo="https://media.api-sports.io/football/teams/848.png", 19:00 | Hangzhou Greentown vs Shandong Luneng (BLV Táo Kinh Tế(A Tích))
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ VÕNG CAM TV" tvg-logo="https://media.api-sports.io/football/teams/21262.png", 19:00 | Chongqing Tongliang Long vs Yunnan Yukun
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://bglive.yarncdn.live/live/bgtv_blv_tieubaxa/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Selangor_FC_logo.svg", 20:00 | Selangor vs Buriram United (BLV PHAN CA)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐỊNH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Selangor_FC_logo.svg", 20:00 | Selangor vs Buriram United (BLV Thần Thông)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ VÕNG CAM TV" tvg-logo="https://media.api-sports.io/football/teams/2526.png", 20:00 | Selangor vs Buriram United
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://bglive.yarncdn.live/live/bgtv_blv_tieubao/playlist.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ VÕNG CAM TV" tvg-logo="https://volleybox.net/media/upload/teams/17789412912WPAz.png", 20:00 | Jiangsu vs LP Bank Ninh Bình
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://bglive.yarncdn.live/live/bgtv_blv_delua/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ VÕNG CAM TV" tvg-logo="https://media.api-sports.io/football/teams/14433.png", 22:00 | Chernihiv vs Dynamo Kyiv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
