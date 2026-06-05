@@ -14,18 +14,9 @@ https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐỊNH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/1920px-Flag_of_Nigeria.svg.png", 01:30 | Nigeria vs Zimbabwe (BLV Táo Mèo)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://tdlive.yarncdn.live/live/tdtv_blv_taomeo/playlist.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://static.flashscore.com/res/image/data/O2nuZwRp-vaAM5VhK.png", 13:30 | Đ (BLV PHAN TỪ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://static.flashscore.com/res/image/data/O2nuZwRp-vaAM5VhK.png", 13:30 | CHIU Pin-Chian vs Akane YAMAGUCHI (BLV PHAN CA)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://media.api-sports.io/football/teams/19147.png", 16:00 | Brunei U19 vs Malaysia U19 (BLV PHAN CA)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://static.flashscore.com/res/image/data/O2nuZwRp-vaAM5VhK.png", 16:00 | POLYTRON Indonesia Open 2026 (BLV PHAN BÁCH)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://static.flashscore.com/res/image/data/O2nuZwRp-vaAM5VhK.png", 16:00 | TA (BLV THẦN THÔNG)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
@@ -35,7 +26,7 @@ https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ VÕNG CAM TV" tvg-logo="https://media.api-sports.io/football/teams/19147.png", 16:00 | Brunei U19 vs Malaysia U19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://media.api-sports.io/football/teams/317.png", 17:00 | Kamatamare Sanuki vs Parceiro Nagano (BLV PHAN ANH)
+#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://sv2.anhsieuviet.com/2026/03/04/signal-2026-03-04-151814.jpg", 17:00 | fff (BLV PHAN ANH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Daegu_FC.svg", 17:30 | Daegu FC vs Paju Citizen (BLV TÁO GIÀ)
@@ -119,6 +110,12 @@ https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg/250px-Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg.png", 08:00 | Việt Nam vs Liban  (BLV LƯƠNG BỔNG)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/18/YokohamaFC.png", 12:00 | Yokohama FC vs Renofa Yamaguchi (BLV PHAN ANH)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/FC_Tokyo_Logo.svg", 12:00 | FC Tokyo vs Cerezo Osaka (BLV PHAN MÃ )
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg", 14:00 | Iran vs Indonesia (BLV TÁO GIÀ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
@@ -134,24 +131,54 @@ https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ VÕNG CAM TV" tvg-logo="https://media.api-sports.io/football/teams/3672.png", 16:00 | Ho Chi Minh vs Dong Thap
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://bglive.yarncdn.live/live/bgtv_blv_tieuhac/playlist.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://media.api-sports.io/football/teams/5170.png", 17:00 | Vanuatu vs Fiji (BLV LƯƠNG BỔNG)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://media.api-sports.io/football/teams/295.png", 17:00 | Sagan Tosu vs Shonan Bellmare (BLV PHAN ANH)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ VÕNG CAM TV" tvg-logo="https://media.api-sports.io/football/teams/294.png", 17:00 | Kawasaki Frontale vs Sanfrecce Hiroshima
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://bglive.yarncdn.live/live/bgtv_blv_lavie/playlist.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1200px-Flag_of_Myanmar.svg.png", 18:30 | Myanmar vs Guam (BLV TÁO KINH TẾ )
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ VÕNG CAM TV" tvg-logo="https://media.api-sports.io/football/teams/1556.png", 18:30 | Myanmar vs Guam
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://bglive.yarncdn.live/live/bgtv_blv_tieuhac/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/1280px-Flag_of_the_Philippines.svg.png", 20:00 | Philippin vs Uzbekistan (BLV TÁO KINH TẾ )
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://media.api-sports.io/football/teams/1.png", 20:00 | Belgium vs Tunisia (BLV PHAN MÃ )
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/1200px-Flag_of_Lithuania.svg.png", 20:00 | Lithuania vs Latvia (BLV PHAN QUẨY)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://media.api-sports.io/football/teams/19148.png", 20:00 | Cambodia U19 vs Philippines U19 (BLV LƯƠNG BỔNG)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ VÕNG CAM TV" tvg-logo="https://media.api-sports.io/football/teams/1.png", 20:00 | Belgium vs Tunisia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ VÕNG CAM TV" tvg-logo="https://media.api-sports.io/football/teams/19148.png", 20:00 | Cambodia U19 vs Philippines U19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://img-cache.coccoc.com/image2?i=1&l=67/132793810", 21:30 | Kyrgyzstan vs Palestine (BLV PHAN CA)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Flag_of_Portugal_%28official%29.svg/1280px-Flag_of_Portugal_%28official%29.svg.png", 22:00 | Portugal U19 vs Greece U19 (BLV PHAN QUẨY)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ VÕNG CAM TV" tvg-logo="https://media.api-sports.io/football/teams/10343.png", 22:00 | Portugal U19 vs Greece U19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg", 23:00 | Armenia vs Kazakhstan (BLV LƯƠNG BỔNG)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://media.api-sports.io/football/teams/1514.png", 23:00 | Rwanda vs Comoros (BLV THẦN THÔNG)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ VÕNG CAM TV" tvg-logo="https://media.api-sports.io/football/teams/1094.png", 23:00 | Armenia vs Kazakhstan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://bglive.yarncdn.live/live/bgtv_blv_lavie/playlist.m3u8
