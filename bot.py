@@ -48,7 +48,7 @@ def process_vongcam():
             if stream_url:
                 fixtures.append({
                     'time': dt_vn,
-                    'group': "🔴 ⚽ VÕNG CAM TV",
+                    'group': "🔴 ⚽ VÒNG CẤM TV",
                     'title': f"{dt_vn.strftime('%H:%M')} | {item.get('title')}",
                     'logo': item.get('homeClub', {}).get('logoUrl', ''),
                     'url': stream_url
@@ -60,7 +60,7 @@ def process_vongcam():
 if __name__ == "__main__":
     # Thu thập dữ liệu
     hq = process_standard("https://sv.hoiquantv.xyz/api/v1/external/fixtures/unfinished", "HoiQuanTV", "🔴 ⚽ HỘI QUÁN TV")
-    td = process_standard("https://sv.thiendinhtv.xyz/api/v1/external/fixtures/unfinished", "ThienDinhTV", "🔴 ⚽ THIÊN ĐỊNH TV")
+    td = process_standard("https://sv.hoiquantv.xyz/api/v1/external/fixtures/unfinished", "ThienDinhTV", "🔴 ⚽ THIÊN ĐÌNH TV")
     vc = process_vongcam()
 
     all_data = hq + td + vc
