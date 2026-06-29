@@ -59,6 +59,18 @@ https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐÌNH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png", 00:00 | Brazil vs Japan (BLV PHAN HÀ LINH )
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/6.png", 00:00 | Brazil vs Japan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/6.png", 00:00 | Brazil vs Japan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/6.png", 00:00 | Brazil vs Japan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/10329.png", 02:00 | Croatia U19 vs Ukraine U19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png", 03:30 | Germany vs Paraguay (BLV PHAN MÃ )
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
@@ -77,6 +89,12 @@ https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐÌNH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png", 03:30 | Germany vs Paraguay (BLV PHAN QUẨY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/25.png", 03:30 | Germany vs Paraguay
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/25.png", 03:30 | Germany vs Paraguay
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://media.api-sports.io/football/teams/1118.png", 08:00 | Netherlands vs Morocco (BLV PHAN MÃ )
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
@@ -89,3 +107,18 @@ https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐÌNH TV" tvg-logo="https://media.api-sports.io/football/teams/1118.png", 08:00 | Netherlands vs Morocco (BLV PHAN QUẨY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/1118.png", 08:00 | Netherlands vs Morocco
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/1118.png", 08:00 | Netherlands vs Morocco
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/16777.png", 17:00 | SD Raiders vs Sydney FC U23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/22176.png", 20:00 | Mashujaa vs Tanzania Prisons
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/650.png", 22:00 | VPS vs Inter Turku
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8
