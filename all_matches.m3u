@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgyDXXFrntQ8oD-0ScBeI4o43O2rcgU2dsjQ&s", 21:00 | Auger-Aliassime F. vs Davidovich  (BLV PHAN BỐNG)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐÌNH TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgyDXXFrntQ8oD-0ScBeI4o43O2rcgU2dsjQ&s", 21:00 | Auger-Aliassime F. vs Davidovich  (BLV PHAN BỐNG)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtkuD4iDpTTtrKYv1EJ3LPjU01T_fPpfF-hg&s", 22:30 | Jannik Sinner vs Mochizuki (BLV PHAN HẢI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8
@@ -116,15 +110,27 @@ https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/1280px-Flag_of_South_Korea.svg.png", 19:00 | U18 Hàn Quốc vs U18 Thái Lan (BLV PHAN CA)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://pbs.twimg.com/media/Gr5VwgSXoAA3ipY?format=jpg&name=large", 19:00 | Alex de Mianur - F.Cobolli (BLV PHAN HẢI)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐÌNH TV" tvg-logo="https://media.api-sports.io/football/teams/350.png", 19:00 | Cracovia Krakow vs Başakşehir (BLV PHAN ANH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐÌNH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/1280px-Flag_of_South_Korea.svg.png", 19:00 | U18 Hàn Quốc vs U18 Thái Lan (BLV PHAN CA)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐÌNH TV" tvg-logo="https://pbs.twimg.com/media/Gr5VwgSXoAA3ipY?format=jpg&name=large", 19:00 | Alex de Mianur - F.Cobolli (BLV PHAN HẢI)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/350.png", 19:00 | Cracovia Krakow vs Başakşehir
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://scontent.fdad1-2.fna.fbcdn.net/v/t51.75761-15/472100567_18480391345019102_2052500490964228159_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=18uiDTzjKA4Q7kNvwEfNXQI&_nc_oc=AdnDGzOzCMQY_JQZUoPuk3Q33gFiu00KP2CLEoGyNlbFB7NW7MucyO31Ijl8oEZS6dzC8jl5evfsmnMczkVqDG7g&_nc_zt=23&_nc_ht=scontent.fdad1-2.fna&_nc_gid=SlKEv5060ZaPXmW-00uavQ&oh=00_AfaTWwZf5kxOk9LXAXqU30OVfKVHW2tUAPkKws2JNC_5pQ&oe=68E3E2F4", 19:30 | Jasmine Paolini - Alexandra Eala (BLV PHAN BỐNG)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐÌNH TV" tvg-logo="https://scontent.fdad1-2.fna.fbcdn.net/v/t51.75761-15/472100567_18480391345019102_2052500490964228159_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=18uiDTzjKA4Q7kNvwEfNXQI&_nc_oc=AdnDGzOzCMQY_JQZUoPuk3Q33gFiu00KP2CLEoGyNlbFB7NW7MucyO31Ijl8oEZS6dzC8jl5evfsmnMczkVqDG7g&_nc_zt=23&_nc_ht=scontent.fdad1-2.fna&_nc_gid=SlKEv5060ZaPXmW-00uavQ&oh=00_AfaTWwZf5kxOk9LXAXqU30OVfKVHW2tUAPkKws2JNC_5pQ&oe=68E3E2F4", 19:30 | Jasmine Paolini - Alexandra Eala (BLV PHAN BỐNG)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://media.api-sports.io/football/teams/4143.png", 23:00 | Super Nova vs Ogre United (BLV PHAN CA)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
