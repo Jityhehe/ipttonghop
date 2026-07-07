@@ -1,10 +1,17 @@
 import requests
 from datetime import datetime, timedelta
 
-# Cấu hình
+# Cấu hình chung
 FILENAME = "all_matches.m3u"
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
 HEADERS = {"User-Agent": UA}
+
+# Cấu hình Referer tương ứng cho từng nhóm để vượt tường lửa CDN
+REFERER_MAP = {
+    "🔴 ⚽ HỘI QUÁN TV": "https://hoiquantv.xyz/",
+    "🔴 ⚽ THIÊN ĐÌNH TV": "https://hoiquantv.xyz/",  # Dùng chung hạ tầng với Hội Quán
+    "🔴 ⚽ VÒNG CẤM TV": "https://vongcam.tv/"
+}
 
 def process_standard(url, provider_name, emoji_group):
     fixtures = []
@@ -23,7 +30,7 @@ def process_standard(url, provider_name, emoji_group):
                 for s in comm_data.get('streams', []):
                     s_name = s.get('name', '').upper()
                     
-                    # Xác định độ phân giải
+                    # Phân loại độ phân giải dựa trên tên stream
                     quality = ""
                     if "FHD" in s_name or "FULLHD" in s_name:
                         quality = "FHD"
@@ -32,8 +39,8 @@ def process_standard(url, provider_name, emoji_group):
                     elif "SD" in s_name or "MOBILE" in s_name:
                         quality = "SD"
                     
-                    # Nếu thuộc một trong các độ phân giải trên thì thêm vào danh sách
-                    if quality:
+                    # Nếu đúng các định dạng trên thì lưu lại
+                    if quality and s.get('sourceUrl'):
                         fixtures.append({
                             'time': dt_vn,
                             'group': emoji_group,
@@ -41,7 +48,6 @@ def process_standard(url, provider_name, emoji_group):
                             'logo': item.get('homeTeam', {}).get('logoUrl', ''),
                             'url': s.get('sourceUrl')
                         })
-                        # Không dùng 'break' ở đây để lấy tiếp các chất lượng khác nếu có
     except Exception as e:
         pass
     return fixtures
@@ -57,7 +63,7 @@ def process_vongcam():
                 dt_vn = datetime.strptime(item['startTime'][:19], '%Y-%m-%dT%H:%M:%S')
             
             comm = item.get('commentator', {})
-            # Lấy danh sách link theo các chất lượng khác nhau từ API
+            # Quét qua cả 3 chất lượng luồng phát của Vòng Cấm
             streams = {
                 'FHD': comm.get('streamSourceFhd'),
                 'HD': comm.get('streamSourceHd'),
@@ -78,22 +84,36 @@ def process_vongcam():
     return fixtures
 
 if __name__ == "__main__":
-    # Thu thập dữ liệu
+    print("Đang thu thập dữ liệu trận đấu...")
+    
+    # Lấy dữ liệu từ các nguồn
     hq = process_standard("https://sv.hoiquantv.xyz/api/v1/external/fixtures/unfinished", "HoiQuanTV", "🔴 ⚽ HỘI QUÁN TV")
     td = process_standard("https://sv.hoiquantv.xyz/api/v1/external/fixtures/unfinished", "ThienDinhTV", "🔴 ⚽ THIÊN ĐÌNH TV")
     vc = process_vongcam()
 
     all_data = hq + td + vc
     
-    # Sắp xếp theo thời gian trận đấu
+    # Sắp xếp lịch thi đấu tăng dần theo thời gian
     all_data.sort(key=lambda x: x['time'])
 
-    # Ghi file M3U
+    print(f"Tìm thấy {len(all_data)} luồng phát. Đang tiến hành ghi file M3U...")
+
+    # Tiến hành ghi file M3U theo định dạng nâng cao
     with open(FILENAME, "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
         for item in all_data:
-            f.write(f'#EXTINF:-1 group-title="{item["group"]}" tvg-logo="{item["logo"]}", {item["title"]}\n')
-            f.write(f'#EXTVLCOPT:http-user-agent={UA}\n')
-            f.write(f'{item["url"]}\n')
+            # Lấy đúng mã Referer bảo mật của từng nhà đài
+            ref = REFERER_MAP.get(item["group"], "https://google.com")
             
-    print(f"Done! Created {FILENAME} với đầy đủ link FHD, HD, SD.")
+            # Ghi thông tin thẻ tên và logo
+            f.write(f'#EXTINF:-1 group-title="{item["group"]}" tvg-logo="{item["logo"]}", {item["title"]}\n')
+            
+            # Giữ lại EXTVLCOPT để hỗ trợ tốt cho VLC / PotPlayer trên Máy tính
+            f.write(f'#EXTVLCOPT:http-user-agent={UA}\n')
+            f.write(f'#EXTVLCOPT:http-referer={ref}\n')
+            
+            # NỐI ĐUÔI BẰNG DẤU | : Ép các app IPTV trên Android TV (TiviMate, OTT Navigator) gửi Header đi kèm
+            final_url = f"{item['url']}|User-Agent={UA}&Referer={ref}"
+            f.write(f'{final_url}\n')
+            
+    print(f"Thành công! Đã tạo file: {FILENAME}")
