@@ -8,9 +8,9 @@ HEADERS = {"User-Agent": UA}
 
 # Cấu hình Referer tương ứng cho từng nhóm để vượt tường lửa CDN
 REFERER_MAP = {
-    "🔴 ⚽ HỘI QUÁN TV": "https://hoiquantv.xyz/",
-    "🔴 ⚽ THIÊN ĐÌNH TV": "https://hoiquantv.xyz/",  # Dùng chung hạ tầng với Hội Quán
-    "🔴 ⚽ VÒNG CẤM TV": "https://vongcam.tv/"
+    "🔴 ⚽ HỘI QUÁN TV": "https://sv2.hoiquan10.live/",
+    "🔴 ⚽ THIÊN ĐÌNH TV": "https://sv2.hoiquan10.live/",  # Dùng chung hạ tầng với Hội Quán
+    "🔴 ⚽ VÒNG CẤM TV": "https://sv2.vongcam6.live/"
 }
 
 def process_standard(url, provider_name, emoji_group):
