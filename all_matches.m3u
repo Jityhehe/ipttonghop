@@ -17,33 +17,15 @@ https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐÌNH TV" tvg-logo="https://media.api-sports.io/football/teams/27556.png", 18:00 | [SD] Ningbo Professional vs Dongguan United (BLV THẦN THÔNG)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://img0.aiscore.com/football/team/219f58fd1493f10ab5d3dd7c5b3b88c5.png!w60", 18:00 | [FHD] Ningbo Professional vs Foshan Nanshi
+#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/27556.png", 18:00 | [FHD] Ningbo Professional vs Dongguan United
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://img0.aiscore.com/football/team/219f58fd1493f10ab5d3dd7c5b3b88c5.png!w60", 18:00 | [HD] Ningbo Professional vs Foshan Nanshi
+#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/27556.png", 18:00 | [HD] Ningbo Professional vs Dongguan United
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://alive.yarncdn.live/bgtv_blv_max/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://img0.aiscore.com/football/team/219f58fd1493f10ab5d3dd7c5b3b88c5.png!w60", 18:00 | [SD] Ningbo Professional vs Foshan Nanshi
+#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/27556.png", 18:00 | [SD] Ningbo Professional vs Dongguan United
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://alive.yarncdn.live/bgtv_blv_max/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://img0.aiscore.com/volleyball/team/da0f5c2d7a7ced93056baddc54135a74.png!w60", 18:00 | [FHD] China U18 vs  Hong Kong U18
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://img0.aiscore.com/volleyball/team/da0f5c2d7a7ced93056baddc54135a74.png!w60", 18:00 | [HD] China U18 vs  Hong Kong U18
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://alive.yarncdn.live/bgtv_blv_phaothan/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://img0.aiscore.com/volleyball/team/da0f5c2d7a7ced93056baddc54135a74.png!w60", 18:00 | [SD] China U18 vs  Hong Kong U18
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://alive.yarncdn.live/bgtv_blv_phaothan/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://img0.aiscore.com/football/team/962538cccefe2f3c95d40f66ed2bfb71.png!w60", 18:30 | [FHD] Japan U18 vs  Australia U18
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://img0.aiscore.com/football/team/962538cccefe2f3c95d40f66ed2bfb71.png!w60", 18:30 | [HD] Japan U18 vs  Australia U18
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://alive.yarncdn.live/bgtv_blv_tieumeo/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://img0.aiscore.com/football/team/962538cccefe2f3c95d40f66ed2bfb71.png!w60", 18:30 | [SD] Japan U18 vs  Australia U18
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://alive.yarncdn.live/bgtv_blv_tieumeo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Ugyen_Academy_FC.png/250px-Ugyen_Academy_FC.png", 19:00 | [FHD] Ugyen Academy vs Transport United (BLV TÁO GIÀ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
@@ -62,15 +44,6 @@ https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐÌNH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Ugyen_Academy_FC.png/250px-Ugyen_Academy_FC.png", 19:00 | [SD] Ugyen Academy vs Transport United (BLV TÁO GIÀ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://static.flashscore.com/res/image/data/ncii97xS-4z9KzNso.png", 19:00 | [FHD] Ugyen Academy vs Transport United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://static.flashscore.com/res/image/data/ncii97xS-4z9KzNso.png", 19:00 | [HD] Ugyen Academy vs Transport United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://alive.yarncdn.live/bgtv_blv_mason/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://static.flashscore.com/res/image/data/ncii97xS-4z9KzNso.png", 19:00 | [SD] Ugyen Academy vs Transport United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://alive.yarncdn.live/bgtv_blv_mason/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://mediares.thethao247.vn/res/image/data/YJN4hmHG-Qq89lvZJ.png", 19:45 | [FHD] Nữ Singapore vs Nữ Lào
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8
@@ -224,6 +197,15 @@ https://alive.yarncdn.live/bgtv_blv_tieumeo/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/2619.png", 08:30 | [SD] Cavalry FC vs Vancouver Whitecaps
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://alive.yarncdn.live/bgtv_blv_tieumeo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://img0.aiscore.com/football/team/2ee0214c45e742b6ae9a1107593918d5.png!w60", 16:00 | [FHD] Nữ Phong Phú Hà Nam vs Nữ TP.Hồ Chí Minh 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://img0.aiscore.com/football/team/2ee0214c45e742b6ae9a1107593918d5.png!w60", 16:00 | [HD] Nữ Phong Phú Hà Nam vs Nữ TP.Hồ Chí Minh 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://alive.yarncdn.live/bgtv_blv_max/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://img0.aiscore.com/football/team/2ee0214c45e742b6ae9a1107593918d5.png!w60", 16:00 | [SD] Nữ Phong Phú Hà Nam vs Nữ TP.Hồ Chí Minh 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://alive.yarncdn.live/bgtv_blv_max/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://media.api-sports.io/football/teams/3764.png", 16:30 | [FHD] APIA Leichhardt Tigers vs Peninsula Power (BLV PHAN CA)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
